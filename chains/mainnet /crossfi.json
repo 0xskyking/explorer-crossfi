@@ -3,9 +3,9 @@
   "api": [{"provider": "skyking", "address": "https://api-crossfi.0xskyking.com"}],
   "rpc": [{"provider": "skyking", "address": "https://rpc-crossfi.0xskyking.com"}],
   "snapshot_provider": "",
-  "sdk_version": "0.47.4",
+  "sdk_version": "0.47.6",
   "coin_type": "60",
-  "min_tx_fee": "4000",
+  "min_tx_fee": "0",
   "addr_prefix": "mx",
   "logo": "/logos/crossfi.png",
   "assets": [{
