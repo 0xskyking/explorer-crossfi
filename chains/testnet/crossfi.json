@@ -1,7 +1,7 @@
 {
   "chain_name": "CrossFi",
-  "api": [{"provider": "skyking", "address": "https://api-crossfi.0xskyking.com"}],
-  "rpc": [{"provider": "skyking", "address": "https://rpc-crossfi.0xskyking.com"}],
+  "api": [{"provider": "0xskyking", "address": "https://api-crossfi.0xskyking.com"}],
+  "rpc": [{"provider": "0xskyking", "address": "https://rpc-crossfi.0xskyking.com"}],
   "snapshot_provider": "",
   "sdk_version": "0.47.6",
   "coin_type": "60",
